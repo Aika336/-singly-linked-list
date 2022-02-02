@@ -1,6 +1,5 @@
 ﻿  main.cpp
-E:\List\List\main.cpp(90,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-E:\List\List\main.cpp(98,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-E:\List\List\main.cpp(105,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-E:\List\List\main.cpp(71): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+E:\List\List\main.cpp(14,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\List\List\main.cpp(21,28): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+E:\List\List\List.h(81): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
   List.vcxproj -> E:\List\x64\Debug\List.exe
